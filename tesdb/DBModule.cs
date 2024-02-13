@@ -15,7 +15,7 @@ namespace tesdb
         protected override void Load(ContainerBuilder builder)
         {
             builder.RegisterType<DataContext>().AsSelf()
-                .WithParameter(new TypedParameter(typeof(string), "Host=srvcamunda;Port=5432;Database=TestBDDocumnet;Username=postgres;Password=3aQ$2PTzBxfp6"));
+                .WithParameter(new TypedParameter(typeof(string), "connection"));
             builder.RegisterGeneric(typeof(Repository<>)).As(typeof(IRepository<>));
             builder.RegisterType<BaseAccess>().AsSelf();
         }
