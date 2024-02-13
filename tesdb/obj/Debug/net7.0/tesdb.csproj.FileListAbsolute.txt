@@ -1,0 +1,14 @@
+C:\Users\ulanzh\Desktop\Repos\WebApplication1\tesdb\bin\Debug\net7.0\tesdb.deps.json
+C:\Users\ulanzh\Desktop\Repos\WebApplication1\tesdb\bin\Debug\net7.0\tesdb.runtimeconfig.json
+C:\Users\ulanzh\Desktop\Repos\WebApplication1\tesdb\bin\Debug\net7.0\tesdb.dll
+C:\Users\ulanzh\Desktop\Repos\WebApplication1\tesdb\bin\Debug\net7.0\tesdb.pdb
+C:\Users\ulanzh\Desktop\Repos\WebApplication1\tesdb\obj\Debug\net7.0\tesdb.csproj.AssemblyReference.cache
+C:\Users\ulanzh\Desktop\Repos\WebApplication1\tesdb\obj\Debug\net7.0\tesdb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulanzh\Desktop\Repos\WebApplication1\tesdb\obj\Debug\net7.0\tesdb.AssemblyInfoInputs.cache
+C:\Users\ulanzh\Desktop\Repos\WebApplication1\tesdb\obj\Debug\net7.0\tesdb.AssemblyInfo.cs
+C:\Users\ulanzh\Desktop\Repos\WebApplication1\tesdb\obj\Debug\net7.0\tesdb.csproj.CoreCompileInputs.cache
+C:\Users\ulanzh\Desktop\Repos\WebApplication1\tesdb\obj\Debug\net7.0\tesdb.dll
+C:\Users\ulanzh\Desktop\Repos\WebApplication1\tesdb\obj\Debug\net7.0\refint\tesdb.dll
+C:\Users\ulanzh\Desktop\Repos\WebApplication1\tesdb\obj\Debug\net7.0\tesdb.pdb
+C:\Users\ulanzh\Desktop\Repos\WebApplication1\tesdb\obj\Debug\net7.0\tesdb.genruntimeconfig.cache
+C:\Users\ulanzh\Desktop\Repos\WebApplication1\tesdb\obj\Debug\net7.0\ref\tesdb.dll

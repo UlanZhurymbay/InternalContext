@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{5291DB9D-2F01-453E-A26C-E93B57524F6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tesdb", "tesdb\tesdb.csproj", "{6DC5A06E-A853-4E65-B713-5F447F54D690}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5291DB9D-2F01-453E-A26C-E93B57524F6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5291DB9D-2F01-453E-A26C-E93B57524F6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5291DB9D-2F01-453E-A26C-E93B57524F6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5291DB9D-2F01-453E-A26C-E93B57524F6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DC5A06E-A853-4E65-B713-5F447F54D690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DC5A06E-A853-4E65-B713-5F447F54D690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DC5A06E-A853-4E65-B713-5F447F54D690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DC5A06E-A853-4E65-B713-5F447F54D690}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A26A2A8F-59BB-496F-AB7F-0A188B614E04}
+	EndGlobalSection
+EndGlobal
